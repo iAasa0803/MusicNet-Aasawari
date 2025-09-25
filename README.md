@@ -69,7 +69,7 @@ Multi-Label Music Tag Predictions
 
 ```bash
 # Clone the repository
-git clone https://github.com/nonsk/genre-taggiing-project3.git
+git clone https://github.com/iAasa0803/MusicNet-Aasawari.git
 cd genre-taggiing-project3
 
 # Create virtual environment
@@ -282,7 +282,7 @@ print(f"Parameter reduction: {results['parameter_reduction_percent']:.1f}%")
 
 ```bash
 # Clone with development dependencies
-git clone https://github.com/nonsk/genre-taggiing-project3.git
+git clone https://github.com/iAasa0803/MusicNet-Aasawari.git
 cd genre-taggiing-project3
 
 # Install in development mode
@@ -315,7 +315,7 @@ If you use MusicNet in your research, please cite:
   author={Aasawari Singh},
   institution={Indian Institute of Technology Kharagpur},
   year={2024},
-  url={https://github.com/nonsk/genre-taggiing-project3},
+  url={https://github.com/iAasa0803/MusicNet-Aasawari},
   note={Deep Learning Music Classification System}
 }
 ```
@@ -339,7 +339,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - 📖 **Documentation**: Tutorials and examples
 
 ### Development Workflow
-1. Fork the repository from [github.com/nonsk/genre-taggiing-project3](https://github.com/nonsk/genre-taggiing-project3)
+1. Fork the repository from [https://github.com/iAasa0803/MusicNet-Aasawari](https://github.com/iAasa0803/MusicNet-Aasawari)
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit changes (`git commit -m 'Add amazing feature'`)
 4. Push to branch (`git push origin feature/amazing-feature`)
@@ -349,10 +349,10 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 👨‍🎓 Author
 
-**[Sameer Sen](https://github.com/nonsk)**  
+**[Aasawari Singh](https://github.com/iAasa0803)**  
 *Department of Computer Science & Engineering*  
 **Indian Institute of Technology Kharagpur**  
-📧 sameer.sen011@kgpian.iitkgp.ac.in  
+📧 aasawarisinghindia@kgpian.iitkgp.ac.in  
 
 ### Academic Affiliation
 - 🎓 **Institution**: Indian Institute of Technology Kharagpur
@@ -374,9 +374,9 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 🔗 Links
 
-- 📂 **Repository**: [github.com/nonsk/genre-taggiing-project3](https://github.com/nonsk/genre-taggiing-project3)
-- 🐛 **Issues**: [Report bugs and feature requests](https://github.com/nonsk/genre-taggiing-project3/issues)
-- 💬 **Discussions**: [Join the community](https://github.com/nonsk/genre-taggiing-project3/discussions)
+- 📂 **Repository**: [https://github.com/iAasa0803/MusicNet-Aasawari](https://github.com/iAasa0803/MusicNet-Aasawari)
+- 🐛 **Issues**: [Report bugs and feature requests](https://github.com/iAasa0803/MusicNet-Aasawari)
+- 💬 **Discussions**: [Join the community](https://github.com/iAasa0803/MusicNet-Aasawari)
 
 ---
 
